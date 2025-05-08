@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azure-minds-522729.framer.app/sitemap.xml
